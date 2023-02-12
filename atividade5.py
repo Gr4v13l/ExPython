@@ -1,0 +1,15 @@
+print("Cadastro de Clinte: ")
+0==("Fim")
+1==("=Inclui")
+2==("Altera")
+3==("Exclui")
+4==("Consulta")
+5==(5)
+
+print(0,"Fim.")
+print(1,"Inclui")
+print(2,"Altera")
+print(3,"Exclui")
+print(4,"Consulta")
+
+input("Escolha uma opção: ")

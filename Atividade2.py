@@ -1,0 +1,7 @@
+n= input("Nome: ")
+end= input("Endereço: ")
+cep= input("CEP: ")
+tele= input("Telefone: ")
+print("Nome: ", n )
+print("Endereço: ", end)
+print("CEP: ", cep, "Telefone: ",tele)
