@@ -6,8 +6,3 @@ ma=((n1+n2*2+n3*3+m)/7)
 
 print("Sua média foi: ", m)
 print("Sua média de aproveitament foi: ", ma)
-
-
-
-
-
